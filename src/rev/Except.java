@@ -3,7 +3,7 @@ package rev;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Exception {
+public class Except {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
