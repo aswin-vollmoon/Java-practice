@@ -1,6 +1,5 @@
 package rev;
 
-
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
 
@@ -13,7 +12,7 @@ public class Deserialization {
                     new FileInputStream("employee.ser");
 
             ObjectInputStream input =
-                    new ObjectInputStream(file);
+                    new ObjectInputStream(file)
         ) {
 
             Emp employee =
